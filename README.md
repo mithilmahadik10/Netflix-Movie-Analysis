@@ -41,11 +41,3 @@ What movie had the highest popularity, and what is its genre?
 What movie had the lowest popularity, and what is its genre?
 
 Which year saw the most movies filmed?
-
-This project not only helped strengthen my skills in data cleaning, categorization, and visualization—it also gave me valuable hands-on experience working with real-world datasets to extract actionable insights.
-
-I'm excited to keep learning and apply these skills to future data-driven projects!
-
-Let’s connect if you're working on similar projects or just love talking data. 📈
-
-#Python #DataAnalysis #NetflixData #DataScience #Pandas #Matplotlib #Seaborn #LinkedInProjects #Preprocessing #LearningByDoing
